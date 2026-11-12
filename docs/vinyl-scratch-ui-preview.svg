@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1060" viewBox="0 0 900 1060" role="img" aria-labelledby="title desc">
+  <title id="title">Illustrative Vinyl Scratch controls window</title>
+  <desc id="desc">A mockup of the Dear PyGui window with grouped sliders for noise, rumble, warp, and mix, plus Start and Stop buttons.</desc>
+  <rect width="900" height="1060" fill="#111827"/>
+  <rect x="145" y="45" width="610" height="970" rx="12" fill="#e8e8e8" stroke="#777" stroke-width="3"/>
+  <rect x="145" y="45" width="610" height="58" rx="12" fill="#d5d5d5"/>
+  <path d="M145 91h610v12H145z" fill="#d5d5d5"/>
+  <text x="172" y="83" font-family="Segoe UI,Arial,sans-serif" font-size="25" fill="#222">Vinyl Scratch Controls</text>
+  <text x="180" y="145" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="600" fill="#222">Vinyl Scratch</text>
+  <g font-family="Segoe UI,Arial,sans-serif" fill="#222">
+    <text x="180" y="190" font-size="20" font-weight="600">Noise / crackle</text>
+    <text x="190" y="228" font-size="16">Noise floor</text><text x="664" y="228" font-size="15">0.0060</text>
+    <text x="190" y="275" font-size="16">Crackle level</text><text x="664" y="275" font-size="15">0.0150</text>
+    <text x="190" y="322" font-size="16">Micro crackle rate</text><text x="664" y="322" font-size="15">12.0000</text>
+    <text x="190" y="369" font-size="16">Pop rate</text><text x="664" y="369" font-size="15">1.0000</text>
+    <text x="190" y="416" font-size="16">Burst rate</text><text x="664" y="416" font-size="15">0.0800</text>
+    <text x="190" y="463" font-size="16">Pop decay (s)</text><text x="664" y="463" font-size="15">0.0200</text>
+    <text x="180" y="527" font-size="20" font-weight="600">Rumble</text>
+    <text x="190" y="565" font-size="16">Rumble freq (Hz)</text><text x="664" y="565" font-size="15">30.0000</text>
+    <text x="190" y="612" font-size="16">Rumble level</text><text x="664" y="612" font-size="15">0.0090</text>
+    <text x="180" y="675" font-size="20" font-weight="600">Warp / wow</text>
+    <text x="190" y="713" font-size="16">Warp rate (Hz)</text><text x="664" y="713" font-size="15">0.6000</text>
+    <text x="190" y="760" font-size="16">Warp depth (ms)</text><text x="664" y="760" font-size="15">3.0000</text>
+    <text x="180" y="823" font-size="20" font-weight="600">Mix</text>
+    <text x="190" y="861" font-size="16">Vinyl mix</text><text x="664" y="861" font-size="15">0.2500</text>
+    <text x="180" y="916" font-size="13" fill="#444">Input: VB-Audio Virtual Cable · Output: speakers / headphones</text>
+  </g>
+  <g>
+    <rect x="190" y="238" width="500" height="8" rx="4" fill="#aaa"/><rect x="190" y="238" width="74" height="8" rx="4" fill="#5488c7"/>
+    <rect x="190" y="285" width="500" height="8" rx="4" fill="#aaa"/><rect x="190" y="285" width="75" height="8" rx="4" fill="#5488c7"/>
+    <rect x="190" y="332" width="500" height="8" rx="4" fill="#aaa"/><rect x="190" y="332" width="120" height="8" rx="4" fill="#5488c7"/>
+    <rect x="190" y="379" width="500" height="8" rx="4" fill="#aaa"/><rect x="190" y="379" width="100" height="8" rx="4" fill="#5488c7"/>
+    <rect x="190" y="426" width="500" height="8" rx="4" fill="#aaa"/><rect x="190" y="426" width="55" height="8" rx="4" fill="#5488c7"/>
+    <rect x="190" y="473" width="500" height="8" rx="4" fill="#aaa"/><rect x="190" y="473" width="95" height="8" rx="4" fill="#5488c7"/>
+    <rect x="190" y="575" width="500" height="8" rx="4" fill="#aaa"/><rect x="190" y="575" width="125" height="8" rx="4" fill="#5488c7"/>
+    <rect x="190" y="622" width="500" height="8" rx="4" fill="#aaa"/><rect x="190" y="622" width="90" height="8" rx="4" fill="#5488c7"/>
+    <rect x="190" y="723" width="500" height="8" rx="4" fill="#aaa"/><rect x="190" y="723" width="100" height="8" rx="4" fill="#5488c7"/>
+    <rect x="190" y="770" width="500" height="8" rx="4" fill="#aaa"/><rect x="190" y="770" width="150" height="8" rx="4" fill="#5488c7"/>
+    <rect x="190" y="871" width="500" height="8" rx="4" fill="#aaa"/><rect x="190" y="871" width="125" height="8" rx="4" fill="#5488c7"/>
+  </g>
+  <line x1="180" y1="895" x2="720" y2="895" stroke="#aaa"/>
+  <rect x="190" y="945" width="105" height="38" rx="5" fill="#477fbd"/><text x="242" y="970" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="white">Start</text>
+  <rect x="310" y="945" width="105" height="38" rx="5" fill="#777"/><text x="362" y="970" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="white">Stop</text>
+</svg>
